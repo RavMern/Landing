@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",
+    "boostrap": "^2.0.0",
     "bootstrap": "^5.3.7",
     "framer-motion": "^12.23.5",
     "react": "^19.1.0",
