@@ -57,7 +57,7 @@ export default function ScrollEffect() {
           scrollTrigger: {
             trigger: image,
             start: "top top",
-            end: "+=1500",
+            end: "+=3000",
             scrub: true,
           },
         }
